@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/janjongboom/mbed-js-repl-example#readme",
   "dependencies": {
-    "mbed-js-repl": "janjongboom/mbed-js-repl"
+    "mbed-js-repl": "janjongboom/mbed-js-repl",
+    "mbed-js-ble": "ARMmbed/mbed-js-ble"
   },
   "devDependencies": {
     "mbed-js-gulp": "ARMmbed/mbed-js-gulp"
